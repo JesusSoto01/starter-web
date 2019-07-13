@@ -5,6 +5,9 @@ to use git and GitHub Together.
 
 ## Introduction
 
+This is example is show to differents parts of the 
+Git repository and various commands using a web project.
+
 ## Purpose
 
 ## Deployment
