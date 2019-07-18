@@ -1,3 +1,4 @@
 dumpfile.txt
 *.log
 log/
+*.orig
