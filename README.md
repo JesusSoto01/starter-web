@@ -1,7 +1,7 @@
 # Starter Web Repo
 
 This is a simple example website project for showing how 
-to use git and GitHub Together.
+to use git and GitHub Together. Adding a line for rebase example.
 
 ## Introduction
 
